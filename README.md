@@ -51,6 +51,69 @@ _October 2017 – March 2022_
 #### [Check my projects as consultant here!](https://github.com/carlospc89/Resume/blob/main/Projects/TechConsultantProjects.pdf)
 
 
+**Master Thesis: Predictive Maintenance for Aircraft Structures**
+
+Lufthansa Technik - Hamburg, Germany
+
+_October 2016 – June 2017_
+
+- Optimized inspection time of aircraft components to under 5 minutes by training a Deep Learning Algorithm which detects and pinpoints damages with over 92% accuracy.
+- Generated new testing procedures for data acquisition to train a Deep Learning Algorithm in complex, uneven aircraft structures.
+- Demonstrated the effectivity of Lamb Waves in uneven, honeycomb structures utilizing piezoelectric sensors (under LHT intellectual property).
+- Designed a GUI with ‘Plug and Play’ capabilities for user interaction with the ML Algorithm.
+
+**Lean and Innovation Management Intern**
+
+Lufthansa Technik - Hamburg, Germany
+
+_April 2016 – September 2016_
+
+- Reduced inspection time of incoming landing gears by two hours by developing and distributing VBA Applications among technical staff.
+- Eliminated the need of a second layer of anti-corrosion coating by redesigning landing gear maintenance workflow.
+- Reduced repair time of rotor blades by optimizing number of movements of an 8-axis laser welder.
 
 
+**Research Assistant**
+
+Institute of Advanced Ceramics @ Hamburg University of Technology - Hamburg, Germany
+
+_June 2015 – August 2015_
+
+- Designed and developed new Virtual Instruments (LabVIEW Applications) for data collection on Advanced Ceramics Research. 
+- Expanded the existing application to include new features in the ceramic components testing machine. 
+- Debugged and troubleshooted the automated experiment tracking workflow.
+
+**Project Engineer**
+
+Critical to Quality - Monterrey, Mexico
+
+_September 2013 – July 2014_
+
+- Programed PLCs and HMIs (Allen Bradley and Horner) for control and automation of oil and gas industry applications.
+- Performed project commissioning activities related to automation and sensor technologies, such as loop checks and sensor calibration.
+- Developed monitoring and data collection stations for medium voltage motors and electric boards (sensors, PLC, HMI, and MySQL database).
+
+**Research and Development Engineer**
+
+DIRAM - Monterrey, Mexico
+
+_February 2013 – August 2013_
+
+- Conducted research on power quality and electrical grounds, primarily in the steel industry, involving hands-on work and data interpretation.
+- Used analytic and simulation tools (Matlab and EasyPower) to improve electrical energy quality. 
+- Analyzed data and develop VBA and LabVIEW tools to save money on electrical billing
+- Proposed, developed, and managed tenders for the Governmental Energy Supplier in Mexico
+
+**Drive Engineering Intern**
+
+Maschinenfabrik Reinhausen - Regensburg, Germany
+
+_February 2011 - July 2011_
+
+- Built (mechanical and electrical) on-load tap changer test stations.
+- Executed tribological and short circuit tests using the developed stations.
+- Expanded the features of existing motor control programs (LabVIEW and C).
+- Validated and corrected electrical diagrams for the mentioned test stations.
+
+### Education
 
