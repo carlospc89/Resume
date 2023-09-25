@@ -1,3 +1,5 @@
+Git 
+
 # About
 
 Hello! I'm Carlos Palomares. Thank you for your interest in my CV.
@@ -25,7 +27,9 @@ Data Science Leader and Engineer driving data-driven decisions for top European 
 Proven track record of managing end-to-end ML lifecycles, overhauling AI strategies, democratizing ML, and integrating Generative AI in corporate processes. 
 Core competencies include team leadership, software engineering (Python), ML Frameworks (TensorFlow), cloud technologies (GCP, AWS). Certified SAFe Product Owner.
 
+
 ### Professional Experience
+_______________
 
 **Data Scientist Special Projects & Advanced Analytics Manager**
 
@@ -147,6 +151,7 @@ _October 2016 – June 2017_
 [//]: # (- Validated and corrected electrical diagrams for the mentioned test stations.)
 
 ### Education
+_______________
 
 **Master of Science - Mechatronics**
 
@@ -154,7 +159,13 @@ Hamburg University of Technology - Hamburg, Germany
 
 _September 2014 – June 2017_
 
-- Thesis: Predictive Maintenance for Aircraft Structures
+- Thesis: Predictive Maintenance for Aircraft Structures. 
+
+#### Abstract
+Unexpected Aircraft on Ground situations bear extremely high costs to airlines all around the globe. 
+For instance, such a case of an Airbus A380 can reach the figure of almost $900,000 per day, including part, shipping, repair, airport costs and profit loss, among many others.
+Within this framework, novel approaches have been explored to provide a reliable, robust and accurate detection of damages and calculation of the Remaining Useful Life of aircraft components. Namely, the application of Guided Lamb Waves and Machine Learning Algorithms fulfill this purpose.
+The following work describes the role of such physical principles as well as the training of an AI in order to successfully pinpoint damages within a nacelle component, namely a thrust reverser blocker door. This allows further research on this field with the objective to extend it into larger and more complex structures.
 
 **Master of Business Administration - Technology Management**
 
@@ -164,6 +175,14 @@ _September 2015 – January 2018_
 
 - Thesis: Machine Learning for Financial Applications
 
+#### Abstract
+The number of failed enterprises due to market competitiveness and exeternalities is extremely high and rising to levels above those encountered in times of the Great Depression.
+In consequence, even more accurate analysis tools are required; such, must facilitate stakeholders within financial markets to define proper plans of action. 
+This thesis proposes an upgrade of the renamed Altman Z-Score with aid of Machine Learning Algorithms, given a training data set which considers most of the SP 500 Companies.
+The resulting accuracy of the prediction algorithm is over 98% bounded by the test and validation subsets; in contrast, a clear decrease on the efficiency when importing a new example data set, consisting in the MIT 50 Smartest Companies. 
+In spite of the aforementioned limitation, the usage of this algorithm provides a useful decision-making score for stakeholders in financial activities.
+
+
 **Bachelor of Science - Mechatronics**
 
 Tecnologico de Monterrey - Monterrey, Mexico
@@ -171,3 +190,4 @@ Tecnologico de Monterrey - Monterrey, Mexico
 _August 2007 – December 2012_
 
 - Final Project: Automated CNC Welder
+
