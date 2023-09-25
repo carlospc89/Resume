@@ -217,14 +217,14 @@ _______________
 ### Tech Stack
 _______________
 
-| Programming Languages                  | Machine Learning                                | CI/CD        | Visualization             |
-|:---------------------------------------|-------------------------------------------------|--------------|---------------------------|
-| Python, SQL, C#, Bash, Matlab, LabVIEW | TensorFlow, MLflow, AWS SageMaker, Scikit-learn | Jenkins, Git | Tableau, Bokeh, Streamlit |
+| Programming Languages                  | Machine Learning                                              | CI/CD                   | Visualization             |
+|:---------------------------------------|---------------------------------------------------------------|-------------------------|---------------------------|
+| Python, SQL, C#, Bash, Matlab, LabVIEW | TensorFlow, MLflow, AWS SageMaker, Scikit-learn, Hugging Face | Jenkins, Git, SonarQube | Tableau, Bokeh, Streamlit |
 
 
-| Cloud Environments | Deployment Tools                               | ETL & Big Data                           | 
-|:-------------------|------------------------------------------------|------------------------------------------|
-| Google Cloud, AWS  | Terraform, Kubernetes, OpenShift, Helm, Docker | Airflow, Apache PySpark, Kafka, & Hadoop |
+| Cloud Environments    | Deployment Tools                               | ETL & Big Data                           | 
+|:----------------------|------------------------------------------------|------------------------------------------|
+| Google Cloud, AWS     | Terraform, Kubernetes, OpenShift, Helm, Docker | Airflow, Apache PySpark, Kafka, & Hadoop |
 
 
 ### Languages
