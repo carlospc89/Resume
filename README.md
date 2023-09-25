@@ -10,7 +10,7 @@ What will you find in this repository?
 
 | Folder                                                                                         | Content                                                  | 
 |:-----------------------------------------------------------------------------------------------|----------------------------------------------------------| 
-| [Root Folder](https://github.com/carlospc89/Resume/tree/main)                                  | This README.md file & my CV in PDF format.               |
+| [Root Folder](https://github.com/carlospc89/Resume/tree/main)                                  | This README.md file & my [CV in PDF format](https://github.com/carlospc89/Resume/blob/main/CVPalomares.pdf).           |
 | [Certifications](https://github.com/carlospc89/Resume/tree/main/Certifications)                | My relevant data science, cloud, & Agile certifications. |
 | [Projects](https://github.com/carlospc89/Resume/blob/main/Projects/TechConsultantProjects.pdf) | A summary of my projects as a data science consultant.   |
 | [Training](https://github.com/carlospc89/Resume/tree/main/Training)                            | Training I've attended, both online and in-person.       |
