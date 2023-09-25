@@ -1,5 +1,3 @@
-Git 
-
 # About
 
 Hello! I'm Carlos Palomares. Thank you for your interest in my CV.
@@ -204,18 +202,40 @@ _______________
 ### Training
 _______________
 
-| Training                                                                                                                        | Issuing organization | Year |
-|:--------------------------------------------------------------------------------------------------------------------------------|----------------------|------|
-| [Data Science on AWS](https://github.com/carlospc89/Resume/blob/main/Training/DS%20on%20AWS.pdf)                                | Coursera             | 2023 |
-| [AWS Fundamentals](https://github.com/carlospc89/Resume/blob/main/Training/AWS%20Fundamentals.pdf)                              | Coursera             | 2022 |
-| [Natural Language Processing](https://github.com/carlospc89/Resume/blob/main/Training/NLP.pdf)                                  | Coursera             | 2022 |
-| [Networking on Google Cloud Platform](https://github.com/carlospc89/Resume/blob/main/Training/Networking%20in%20GCP.pdf)        | Coursera             | 2021 |
-| [Advanced Machine Learning on GCP](https://github.com/carlospc89/Resume/blob/main/Training/Advanced%20ML%20on%20GCP.pdf)        | Coursera             | 2020 |
-| [DeepLearning.AI TensorFlow Developer](https://github.com/carlospc89/Resume/blob/main/Training/DL%20TensorFlow%20Developer.pdf) | Coursera             | 2020 |
-| [Machine Learning on Google Cloud](https://github.com/carlospc89/Resume/blob/main/Training/ML%20on%20GCP.pdf)                   | Coursera             | 2020 |
-| [Cloudera Data Scientist Training ](https://github.com/carlospc89/Resume/blob/main/Training/Cloudera%20DS%20Training.pdf)       | Cloudera             | 2018 |
+| Training                                                                                                                          | Issuing organization | Year |
+|:----------------------------------------------------------------------------------------------------------------------------------|----------------------|------|
+| [Data Science on AWS](https://github.com/carlospc89/Resume/blob/main/Training/DS%20on%20AWS.pdf)                                  | Coursera             | 2023 |
+| [AWS Fundamentals](https://github.com/carlospc89/Resume/blob/main/Training/AWS%20Fundamentals.pdf)                                | Coursera             | 2022 |
+| [Natural Language Processing](https://github.com/carlospc89/Resume/blob/main/Training/NLP.pdf)                                    | Coursera             | 2022 |
+| [Networking on Google Cloud Platform](https://github.com/carlospc89/Resume/blob/main/Training/Networking%20in%20GCP.pdf)          | Coursera             | 2021 |
+| [Advanced Machine Learning on GCP](https://github.com/carlospc89/Resume/blob/main/Training/Advanced%20ML%20on%20GCP.pdf)          | Coursera             | 2020 |
+| [DeepLearning.AI TensorFlow Developer](https://github.com/carlospc89/Resume/blob/main/Training/DL%20TensorFlow%20Developer.pdf)   | Coursera             | 2020 |
+| [Machine Learning on Google Cloud](https://github.com/carlospc89/Resume/blob/main/Training/ML%20on%20GCP.pdf)                     | Coursera             | 2020 |
+| [Cloudera Data Scientist Training ](https://github.com/carlospc89/Resume/blob/main/Training/Cloudera%20DS%20Training.pdf)         | Cloudera             | 2018 |
 
 
+### Tech Stack
+_______________
+
+| Programming Languages                  | Machine Learning                                | CI/CD        | Visualization             |
+|:---------------------------------------|-------------------------------------------------|--------------|---------------------------|
+| Python, SQL, C#, Bash, Matlab, LabVIEW | TensorFlow, MLflow, AWS SageMaker, Scikit-learn | Jenkins, Git | Tableau, Bokeh, Streamlit |
+
+
+| Cloud Environments | Deployment Tools                               | ETL & Big Data                           | 
+|:-------------------|------------------------------------------------|------------------------------------------|
+| Google Cloud, AWS  | Terraform, Kubernetes, OpenShift, Helm, Docker | Airflow, Apache PySpark, Kafka, & Hadoop |
+
+
+### Languages
+_______________
+
+| Language | Proficiency Level             |  
+|:---------|-------------------------------|
+| Spanish  | Native                        |
+| English  | Full Professional Proficiency |
+| German   | Full Professional Proficiency |
+| Italian  | Fluent                        |
 
 ### Scholarship & Awards
 _______________
