@@ -62,58 +62,112 @@ _October 2016 – June 2017_
 - Demonstrated the effectivity of Lamb Waves in uneven, honeycomb structures utilizing piezoelectric sensors (under LHT intellectual property).
 - Designed a GUI with ‘Plug and Play’ capabilities for user interaction with the ML Algorithm.
 
-**Lean and Innovation Management Intern**
+[//]: # (**Lean and Innovation Management Intern**)
 
-Lufthansa Technik - Hamburg, Germany
+[//]: # ()
+[//]: # (Lufthansa Technik - Hamburg, Germany)
 
-_April 2016 – September 2016_
+[//]: # ()
+[//]: # (_April 2016 – September 2016_)
 
-- Reduced inspection time of incoming landing gears by two hours by developing and distributing VBA Applications among technical staff.
-- Eliminated the need of a second layer of anti-corrosion coating by redesigning landing gear maintenance workflow.
-- Reduced repair time of rotor blades by optimizing number of movements of an 8-axis laser welder.
+[//]: # ()
+[//]: # (- Reduced inspection time of incoming landing gears by two hours by developing and distributing VBA Applications among technical staff.)
 
+[//]: # (- Eliminated the need of a second layer of anti-corrosion coating by redesigning landing gear maintenance workflow.)
 
-**Research Assistant**
+[//]: # (- Reduced repair time of rotor blades by optimizing number of movements of an 8-axis laser welder.)
 
-Institute of Advanced Ceramics @ Hamburg University of Technology - Hamburg, Germany
+[//]: # ()
+[//]: # ()
+[//]: # (**Research Assistant**)
 
-_June 2015 – August 2015_
+[//]: # ()
+[//]: # (Institute of Advanced Ceramics @ Hamburg University of Technology - Hamburg, Germany)
 
-- Designed and developed new Virtual Instruments (LabVIEW Applications) for data collection on Advanced Ceramics Research. 
-- Expanded the existing application to include new features in the ceramic components testing machine. 
-- Debugged and troubleshooted the automated experiment tracking workflow.
+[//]: # ()
+[//]: # (_June 2015 – August 2015_)
 
-**Project Engineer**
+[//]: # ()
+[//]: # (- Designed and developed new Virtual Instruments &#40;LabVIEW Applications&#41; for data collection on Advanced Ceramics Research. )
 
-Critical to Quality - Monterrey, Mexico
+[//]: # (- Expanded the existing application to include new features in the ceramic components testing machine. )
 
-_September 2013 – July 2014_
+[//]: # (- Debugged and troubleshooted the automated experiment tracking workflow.)
 
-- Programed PLCs and HMIs (Allen Bradley and Horner) for control and automation of oil and gas industry applications.
-- Performed project commissioning activities related to automation and sensor technologies, such as loop checks and sensor calibration.
-- Developed monitoring and data collection stations for medium voltage motors and electric boards (sensors, PLC, HMI, and MySQL database).
+[//]: # ()
+[//]: # (**Project Engineer**)
 
-**Research and Development Engineer**
+[//]: # ()
+[//]: # (Critical to Quality - Monterrey, Mexico)
 
-DIRAM - Monterrey, Mexico
+[//]: # ()
+[//]: # (_September 2013 – July 2014_)
 
-_February 2013 – August 2013_
+[//]: # ()
+[//]: # (- Programed PLCs and HMIs &#40;Allen Bradley and Horner&#41; for control and automation of oil and gas industry applications.)
 
-- Conducted research on power quality and electrical grounds, primarily in the steel industry, involving hands-on work and data interpretation.
-- Used analytic and simulation tools (Matlab and EasyPower) to improve electrical energy quality. 
-- Analyzed data and develop VBA and LabVIEW tools to save money on electrical billing
-- Proposed, developed, and managed tenders for the Governmental Energy Supplier in Mexico
+[//]: # (- Performed project commissioning activities related to automation and sensor technologies, such as loop checks and sensor calibration.)
 
-**Drive Engineering Intern**
+[//]: # (- Developed monitoring and data collection stations for medium voltage motors and electric boards &#40;sensors, PLC, HMI, and MySQL database&#41;.)
 
-Maschinenfabrik Reinhausen - Regensburg, Germany
+[//]: # ()
+[//]: # (**Research and Development Engineer**)
 
-_February 2011 - July 2011_
+[//]: # ()
+[//]: # (DIRAM - Monterrey, Mexico)
 
-- Built (mechanical and electrical) on-load tap changer test stations.
-- Executed tribological and short circuit tests using the developed stations.
-- Expanded the features of existing motor control programs (LabVIEW and C).
-- Validated and corrected electrical diagrams for the mentioned test stations.
+[//]: # ()
+[//]: # (_February 2013 – August 2013_)
+
+[//]: # ()
+[//]: # (- Conducted research on power quality and electrical grounds, primarily in the steel industry, involving hands-on work and data interpretation.)
+
+[//]: # (- Used analytic and simulation tools &#40;Matlab and EasyPower&#41; to improve electrical energy quality. )
+
+[//]: # (- Analyzed data and develop VBA and LabVIEW tools to save money on electrical billing)
+
+[//]: # (- Proposed, developed, and managed tenders for the Governmental Energy Supplier in Mexico)
+
+[//]: # ()
+[//]: # (**Drive Engineering Intern**)
+
+[//]: # ()
+[//]: # (Maschinenfabrik Reinhausen - Regensburg, Germany)
+
+[//]: # ()
+[//]: # (_February 2011 - July 2011_)
+
+[//]: # ()
+[//]: # (- Built &#40;mechanical and electrical&#41; on-load tap changer test stations.)
+
+[//]: # (- Executed tribological and short circuit tests using the developed stations.)
+
+[//]: # (- Expanded the features of existing motor control programs &#40;LabVIEW and C&#41;.)
+
+[//]: # (- Validated and corrected electrical diagrams for the mentioned test stations.)
 
 ### Education
 
+**Master of Science - Mechatronics**
+
+Hamburg University of Technology - Hamburg, Germany
+
+_September 2014 – June 2017_
+
+- Thesis: Predictive Maintenance for Aircraft Structures
+
+**Master of Business Administration - Technology Management**
+
+Hamburg University of Technology / NIT - Hamburg, Germany
+
+_September 2015 – January 2018_
+
+- Thesis: Machine Learning for Financial Applications
+
+**Bachelor of Science - Mechatronics**
+
+Tecnologico de Monterrey - Monterrey, Mexico
+
+_August 2007 – December 2012_
+
+- Final Project: Automated CNC Welder
