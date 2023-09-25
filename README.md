@@ -25,6 +25,13 @@ Data Science Leader and Engineer driving data-driven decisions for top European 
 Proven track record of managing end-to-end ML lifecycles, overhauling AI strategies, democratizing ML, and integrating Generative AI in corporate processes. 
 Core competencies include team leadership, software engineering (Python), ML Frameworks (TensorFlow), cloud technologies (GCP, AWS). Certified SAFe Product Owner.
 
+### Career Highlights
+_______________
+- Reduced onboarding time by 50% for North American, European, and Asian Airlines into a predictive maintenance platform while adjusting and operationalizing Machine Learning models for specific needs.
+- Successfully deployed a corporate proprietary Python package adopted by over 300 users globally with 7 initial features, incorporating CI/CD for future releases. 
+- Advised sales representatives resulting in a five-year consultancy contract ($440T p.a. per consultant) through the development of a PoC to integrate ML into customer’s SAP infrastructure. 
+- Trained a Deep Learning Algorithm to pinpoint damages with an accuracy of over 94% in complex honeycomb structures while proving the efficacy of Lamb Waves in the Aerospace Industry for Condition Based Maintenance. 
+
 
 ### Professional Experience
 _______________
