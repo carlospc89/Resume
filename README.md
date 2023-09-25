@@ -245,3 +245,10 @@ Selected as one of the 35 international students to attend a double master progr
 
 **DAAD – CONACYT Scholarship** 
 One of the 55 nationwide scholarship grantees to pursue a postgraduate degree in a German University with the Deutsche Akademische Austauschdienst (DAAD). 
+
+### Hobbies
+_______________
+
+- ML & AI, Math & Stats
+- Finance, Macroeconomics, Politics
+- Boxing, Running, Football 
