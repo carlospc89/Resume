@@ -4,6 +4,13 @@ Hello! I'm Carlos Palomares. Thank you for your interest in my CV.
 
 Here, you will find more information about my job experience, training & certifications, and tech skills.
 
+But first a line or two about myself:
+
+Passionate data scientist with a double master's in MBA and MSc, and a background in mechatronics engineering. 
+I discovered my passion for data while studying and working with optimal and robust, and predictive control techniques, 
+like autoregressive models, Kalman filters, and neural networks for instant linearisation of plants.
+I'm a life-long learner and boxing enthusiast, always eager to take on new challenges and help others succeed.
+
 ## Table of Contents
 
 What will you find in this repository?
@@ -196,6 +203,16 @@ _August 2007 – December 2012_
 
 - Final Project: Automated CNC Welder
 
+### Languages
+_______________
+
+| Language | Proficiency Level             |  
+|:---------|-------------------------------|
+| Spanish  | Native                        |
+| English  | Full Professional Proficiency |
+| German   | Full Professional Proficiency |
+| Italian  | Fluent                        |
+
 ### Certifications
 _______________
 
@@ -233,16 +250,6 @@ _______________
 |:----------------------|------------------------------------------------|------------------------------------------|
 | Google Cloud, AWS     | Terraform, Kubernetes, OpenShift, Helm, Docker | Airflow, Apache PySpark, Kafka, & Hadoop |
 
-
-### Languages
-_______________
-
-| Language | Proficiency Level             |  
-|:---------|-------------------------------|
-| Spanish  | Native                        |
-| English  | Full Professional Proficiency |
-| German   | Full Professional Proficiency |
-| Italian  | Fluent                        |
 
 ### Scholarship & Awards
 _______________
