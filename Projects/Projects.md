@@ -5,6 +5,7 @@ _______________
 
 **Data Science for Hamburg’s Transport Association**
 
+
 Tech Stack: AWS Sagemaker & S3, Python, TensorFlow, Autoencoders
 
 - Increased classification of faulty components to 94% by training Deep Learning (LSTM) algorithm.
@@ -14,6 +15,7 @@ Tech Stack: AWS Sagemaker & S3, Python, TensorFlow, Autoencoders
 _______________
 
 **Platform Engineering for MRO Aviation Industry**
+
 
 Tech Stack: GCP Networking, Composer, GCS, GKE, Python, Terraform, OpenShift, Helm Charts, Kubernetes
 
@@ -26,6 +28,7 @@ _______________
 
 **Data Engineering for E-Marketing Company**
 
+
 Tech Stack: GCP BigQuery, Composer, GCS, GKE, Python, Terraform
 
 - Created and deployed the data warehousing architecture in GCP BigQuery as infrastructure as code.
@@ -36,6 +39,7 @@ Tech Stack: GCP BigQuery, Composer, GCS, GKE, Python, Terraform
 _______________
 **Data Engineering for Retail & E-Commerce**
 
+
 Tech Stack: GCP BigQuery, DataProc, PySpark, Jenkins, FB Prophet
 
 - Reduced code execution time by over 70% by leveraging the capabilities of Google Cloud Platform’s, specifically Dataproc’s parallel (Spark) computing and efficient resource allocation. 
@@ -45,6 +49,7 @@ Tech Stack: GCP BigQuery, DataProc, PySpark, Jenkins, FB Prophet
 ### Predictive Maintenance for Aircraft Structures
 _______________
 **Data Science for MRO Aviation Industry**
+
 
 Tech Stack: Python, PySpark, Apache Stack, Jenkins, SKlearn, Tableau
 
