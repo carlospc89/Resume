@@ -250,23 +250,35 @@ _______________
 
 **ML Applications**
 
+    Time-series Analysis, Deep Learning, NLP & LLMs
 
-| Programming Languages                  | Machine Learning Frameworks                                                       | ML Applications                                 |
-|:---------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------|
-| Python, SQL, C#, Bash, Matlab, LabVIEW | TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas | Time-series Analysis, Deep Learning, NLP & LLMs |
+**MLOps**
 
-| MLOps                                                                | CI/CD                                 | Cloud Platforms                                                    | 
-|:---------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------------------|
-| Airflow, Kubelfow, Docker, MLflow, SageMaker Endpoints & Seldon Core | Jenkins, JFrog Artifactory, SonarQube | GCP - Professional Data Engineer, AWS Certified Cloud Practitioner |
+    Airflow, Kubelfow, Docker, MLflow, SageMaker Endpoints & Seldon Core
 
-| Cloud Technologies                                             | Data Warehousing & Big Data                               | Visualization                                   | 
-|:---------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|
-| BigQuery, GCS, GKE, Terraform, AWS SageMaker, Canvas, EC2, S3  | Apache Spark, Kafka, Hadoop, HDFS, EMR, AWS RDS, BigQuery | Plotly, Seaborn, Matplotlib, Streamlit, Tableau |
+**CI/CD**
+    
+    Jenkins, JFrog Artifactory, SonarQube
 
+**Cloud Platforms**
 
-| Software Engineering                          | 
-|:----------------------------------------------|
-| Git, Unit Testing Pytest, Integration Testing |
+    GCP - Professional Data Engineer, AWS Certified Cloud Practitioner
+
+**Cloud Technologies**
+
+    BigQuery, GCS, GKE, Terraform, AWS SageMaker, Canvas, EC2, S3
+
+**Data Warehousing & Big Data**
+
+    Apache Spark, Kafka, Hadoop, HDFS, EMR, AWS RDS, BigQuery
+
+**Visualization**
+
+    Plotly, Seaborn, Matplotlib, Streamlit, Tableau
+
+**Software Engineering**
+
+    Git, Unit Testing Pytest, Integration Testing
 
 ### Scholarship & Awards
 _______________
