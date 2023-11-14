@@ -241,9 +241,11 @@ _______________
 ### Tech Stack
 _______________
 **Programming Languages**
+
 Python, SQL, C#, Bash, Matlab, LabVIEW
 
 **Machine Learning Frameworks**
+
 TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas
 
 
