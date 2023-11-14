@@ -242,11 +242,13 @@ _______________
 _______________
 **Programming Languages**
 
-Python, SQL, C#, Bash, Matlab, LabVIEW
+    Python, SQL, C#, Bash, Matlab, LabVIEW
 
 **Machine Learning Frameworks**
 
-TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas
+    TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas
+
+**ML Applications**
 
 
 | Programming Languages                  | Machine Learning Frameworks                                                       | ML Applications                                 |
