@@ -241,15 +241,22 @@ _______________
 ### Tech Stack
 _______________
 
-| Programming Languages                  | Machine Learning                                              | CI/CD                   | Visualization             |
-|:---------------------------------------|---------------------------------------------------------------|-------------------------|---------------------------|
-| Python, SQL, C#, Bash, Matlab, LabVIEW | TensorFlow, MLflow, AWS SageMaker, Scikit-learn, Hugging Face | Jenkins, Git, SonarQube | Tableau, Bokeh, Streamlit |
+| Programming Languages                  | Machine Learning Frameworks                                                       | ML Applications                                 |
+|:---------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------|
+| Python, SQL, C#, Bash, Matlab, LabVIEW | TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas | Time-series Analysis, Deep Learning, NLP & LLMs |
+
+| MLOps                                                                | CI/CD                                 | Cloud Platforms                                                    | 
+|:---------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------------------|
+| Airflow, Kubelfow, Docker, MLflow, SageMaker Endpoints & Seldon Core | Jenkins, JFrog Artifactory, SonarQube | GCP - Professional Data Engineer, AWS Certified Cloud Practitioner |
+
+| Cloud Technologies                                             | Data Warehousing & Big Data                               | Visualization                                   | 
+|:---------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|
+| BigQuery, GCS, GKE, Terraform, AWS SageMaker, Canvas, EC2, S3  | Apache Spark, Kafka, Hadoop, HDFS, EMR, AWS RDS, BigQuery | Plotly, Seaborn, Matplotlib, Streamlit, Tableau |
 
 
-| Cloud Environments    | Deployment Tools                               | ETL & Big Data                           | 
-|:----------------------|------------------------------------------------|------------------------------------------|
-| Google Cloud, AWS     | Terraform, Kubernetes, OpenShift, Helm, Docker | Airflow, Apache PySpark, Kafka, & Hadoop |
-
+| Software Engineering                          | 
+|:----------------------------------------------|
+| Git, Unit Testing Pytest, Integration Testing |
 
 ### Scholarship & Awards
 _______________
