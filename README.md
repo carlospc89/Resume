@@ -242,43 +242,43 @@ _______________
 _______________
 **Programming Languages**
 
-Python, SQL, C#, Bash, Matlab, LabVIEW
+* Python, SQL, C#, Bash, Matlab, LabVIEW
 
 **Machine Learning Frameworks**
 
-TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas
+* TensorFlow, Scikit-learn, Hugging Face, LSTMs, Transformers, Autoencoders, Pandas
 
 **ML Applications**
 
-Time-series Analysis, Deep Learning, NLP & LLMs
+* Time-series Analysis, Deep Learning, NLP & LLMs
 
 **MLOps**
 
-Airflow, Kubelfow, Docker, MLflow, SageMaker Endpoints & Seldon Core
+* Airflow, Kubelfow, Docker, MLflow, SageMaker Endpoints & Seldon Core
 
 **CI/CD**
     
-Jenkins, JFrog Artifactory, SonarQube
+* Jenkins, JFrog Artifactory, SonarQube
 
 **Cloud Platforms**
 
-GCP - Professional Data Engineer, AWS Certified Cloud Practitioner
+* GCP - Professional Data Engineer, AWS Certified Cloud Practitioner
 
 **Cloud Technologies**
 
-BigQuery, GCS, GKE, Terraform, AWS SageMaker, Canvas, EC2, S3
+* BigQuery, GCS, GKE, Terraform, AWS SageMaker, Canvas, EC2, S3
 
 **Data Warehousing & Big Data**
 
-Apache Spark, Kafka, Hadoop, HDFS, EMR, AWS RDS, BigQuery
+* Apache Spark, Kafka, Hadoop, HDFS, EMR, AWS RDS, BigQuery
 
 **Visualization**
 
-Plotly, Seaborn, Matplotlib, Streamlit, Tableau
+* Plotly, Seaborn, Matplotlib, Streamlit, Tableau
 
 **Software Engineering**
 
-Git, Unit Testing Pytest, Integration Testing
+* Git, Unit Testing Pytest, Integration Testing
 
 ### Scholarship & Awards
 _______________
