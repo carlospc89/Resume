@@ -203,41 +203,6 @@ _August 2007 – December 2012_
 
 - Final Project: Automated CNC Welder
 
-### Languages
-_______________
-
-| Language | Proficiency Level             |  
-|:---------|-------------------------------|
-| Spanish  | Native                        |
-| English  | Full Professional Proficiency |
-| German   | Full Professional Proficiency |
-| Italian  | Fluent                        |
-
-### Certifications
-_______________
-
-| Certification                                                                                              | Issuing organization         | Year |
-|:-----------------------------------------------------------------------------------------------------------|------------------------------|------|
-| [Certified Product Owner](https://www.credly.com/badges/1ae30052-c7b7-426c-8d53-5591b53be010/public_url)   | SAFe: Scaled Agile Framework | 2023 |
-| [AWS Cloud Practitioner](https://www.credly.com/badges/acedbeed-8252-447d-96af-7d1790a98cf8/public_url)    | Amazon Web Services          | 2022 |
-| [Certified TensorFlow Developer](https://www.credential.net/4a7e3076-30f2-4505-89fc-f3fc575c62fb)          | TensorFlow                   | 2021 |
-| [Certified Professional Data Engineer](https://google.accredible.com/709f27f7-aa71-40cb-9fa6-4623dc3526e3) | Google Cloud Platform        | 2020 |
-
-### Training
-_______________
-
-| Training                                                                                                                          | Issuing organization | Year |
-|:----------------------------------------------------------------------------------------------------------------------------------|----------------------|------|
-| [Data Science on AWS](https://github.com/carlospc89/Resume/blob/main/Training/DS%20on%20AWS.pdf)                                  | Coursera             | 2023 |
-| [AWS Fundamentals](https://github.com/carlospc89/Resume/blob/main/Training/AWS%20Fundamentals.pdf)                                | Coursera             | 2022 |
-| [Natural Language Processing](https://github.com/carlospc89/Resume/blob/main/Training/NLP.pdf)                                    | Coursera             | 2022 |
-| [Networking on Google Cloud Platform](https://github.com/carlospc89/Resume/blob/main/Training/Networking%20in%20GCP.pdf)          | Coursera             | 2021 |
-| [Advanced Machine Learning on GCP](https://github.com/carlospc89/Resume/blob/main/Training/Advanced%20ML%20on%20GCP.pdf)          | Coursera             | 2020 |
-| [DeepLearning.AI TensorFlow Developer](https://github.com/carlospc89/Resume/blob/main/Training/DL%20TensorFlow%20Developer.pdf)   | Coursera             | 2020 |
-| [Machine Learning on Google Cloud](https://github.com/carlospc89/Resume/blob/main/Training/ML%20on%20GCP.pdf)                     | Coursera             | 2020 |
-| [Cloudera Data Scientist Training ](https://github.com/carlospc89/Resume/blob/main/Training/Cloudera%20DS%20Training.pdf)         | Cloudera             | 2018 |
-
-
 ### Tech Stack
 _______________
 **Programming Languages**
@@ -279,6 +244,41 @@ _______________
 **Software Engineering**
 
 * Git, Unit Testing Pytest, Integration Testing
+
+### Languages
+_______________
+
+| Language | Proficiency Level             |  
+|:---------|-------------------------------|
+| Spanish  | Native                        |
+| English  | Full Professional Proficiency |
+| German   | Full Professional Proficiency |
+| Italian  | Fluent                        |
+
+### Certifications
+_______________
+
+| Certification                                                                                              | Issuing organization         | Year |
+|:-----------------------------------------------------------------------------------------------------------|------------------------------|------|
+| [Certified Product Owner](https://www.credly.com/badges/1ae30052-c7b7-426c-8d53-5591b53be010/public_url)   | SAFe: Scaled Agile Framework | 2023 |
+| [AWS Cloud Practitioner](https://www.credly.com/badges/acedbeed-8252-447d-96af-7d1790a98cf8/public_url)    | Amazon Web Services          | 2022 |
+| [Certified TensorFlow Developer](https://www.credential.net/4a7e3076-30f2-4505-89fc-f3fc575c62fb)          | TensorFlow                   | 2021 |
+| [Certified Professional Data Engineer](https://google.accredible.com/709f27f7-aa71-40cb-9fa6-4623dc3526e3) | Google Cloud Platform        | 2020 |
+
+### Training
+_______________
+
+| Training                                                                                                                          | Issuing organization | Year |
+|:----------------------------------------------------------------------------------------------------------------------------------|----------------------|------|
+| [Data Science on AWS](https://github.com/carlospc89/Resume/blob/main/Training/DS%20on%20AWS.pdf)                                  | Coursera             | 2023 |
+| [AWS Fundamentals](https://github.com/carlospc89/Resume/blob/main/Training/AWS%20Fundamentals.pdf)                                | Coursera             | 2022 |
+| [Natural Language Processing](https://github.com/carlospc89/Resume/blob/main/Training/NLP.pdf)                                    | Coursera             | 2022 |
+| [Networking on Google Cloud Platform](https://github.com/carlospc89/Resume/blob/main/Training/Networking%20in%20GCP.pdf)          | Coursera             | 2021 |
+| [Advanced Machine Learning on GCP](https://github.com/carlospc89/Resume/blob/main/Training/Advanced%20ML%20on%20GCP.pdf)          | Coursera             | 2020 |
+| [DeepLearning.AI TensorFlow Developer](https://github.com/carlospc89/Resume/blob/main/Training/DL%20TensorFlow%20Developer.pdf)   | Coursera             | 2020 |
+| [Machine Learning on Google Cloud](https://github.com/carlospc89/Resume/blob/main/Training/ML%20on%20GCP.pdf)                     | Coursera             | 2020 |
+| [Cloudera Data Scientist Training ](https://github.com/carlospc89/Resume/blob/main/Training/Cloudera%20DS%20Training.pdf)         | Cloudera             | 2018 |
+
 
 ### Scholarship & Awards
 _______________
