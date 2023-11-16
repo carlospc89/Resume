@@ -235,7 +235,7 @@ _______________
 
 **Data Warehousing & Big Data**
 
-* Apache Spark, Kafka, Hadoop, HDFS, EMR, AWS RDS, BigQuery
+* Apache Spark, Kafka, Hadoop, HDFS, EMR, RDS, BigQuery, Snowflake
 
 **Visualization**
 
