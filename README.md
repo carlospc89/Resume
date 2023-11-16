@@ -283,6 +283,9 @@ _______________
 ### Scholarship & Awards
 _______________
 
+**ABCD (Above and Beyond Call of Duty) Award @ PMI** 
+Awarded twice in one year for exceptional contributions to PMIs analytics portfolio - release of proprietary Python package with 400+ potential users.
+
 **Lufthansa Global Engineering Award**
 Selected as one of the 35 international students to attend a double master program. It consists of a M.Sc. + MBA at the Hamburg University of Technology.
 
